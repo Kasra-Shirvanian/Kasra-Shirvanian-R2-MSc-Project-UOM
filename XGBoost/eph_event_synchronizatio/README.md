@@ -57,9 +57,10 @@ The script will process and save a MATLAB .mat file formatted for XGBoost traini
 
 The saved .mat file will contain:
 
-Variable	Description
-X	Shape parameters & movement data (input features)
-Y	Neural spike counts per event (prediction target)
-K	Number of cross-validation folds (default = 5)
-which_fold	Cross-validation fold assignments
-clu_val	Neuron cluster IDs
+Variable	Description:
+
+X ------->	Shape parameters & movement data (input features)
+Y	------->  Neural spike counts per event (prediction target)
+K	------->  Number of cross-validation folds (default = 5)
+which_fold -------> 	Cross-validation fold assignments
+clu_val    ------->  	Neuron cluster IDs
