@@ -1,8 +1,8 @@
-# Kasra-Shirvanian-R2-MSc-Project-UOM
+All 3 scripts for optimal K-means clustering, including finding the number of optimal clusters, the main clustering operation as well as comparison of shape parameters in the Train and Test sets.  
 
 Clustering Scripts:
 
-1-find_optimal_k.m
+1️⃣-find_optimal_k.m
 
 #Overview
 
@@ -45,7 +45,7 @@ find_optimal_k();
 
 This will process the data, perform clustering, generate plots, and save clustering results.
 
-2-cluster_with_optimal_k.m
+2️⃣-cluster_with_optimal_k.m
 
 #Overview
 
@@ -82,7 +82,7 @@ Run the script in MATLAB:
 cluster_with_optimal_k();
 When prompted, enter the optimal K determined from previous analysis.
 
-3-plot_shape_parameters.m
+3️⃣-plot_shape_parameters.m
 
 #Overview
 
