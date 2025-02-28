@@ -2,7 +2,7 @@ All 3 scripts for optimal K-means clustering, including finding the number of op
 
 Clustering Scripts:
 
-1️⃣-find_optimal_k.m
+1️⃣ find_optimal_k.m
 
 #Overview
 
@@ -45,7 +45,7 @@ find_optimal_k();
 
 This will process the data, perform clustering, generate plots, and save clustering results.
 
-2️⃣-cluster_with_optimal_k.m
+2️⃣ cluster_with_optimal_k.m
 
 #Overview
 
@@ -82,7 +82,7 @@ Run the script in MATLAB:
 cluster_with_optimal_k();
 When prompted, enter the optimal K determined from previous analysis.
 
-3️⃣-plot_shape_parameters.m
+3️⃣ plot_shape_parameters.m
 
 #Overview
 
