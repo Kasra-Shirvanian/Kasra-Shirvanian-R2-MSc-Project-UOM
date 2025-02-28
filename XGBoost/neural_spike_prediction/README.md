@@ -1,4 +1,4 @@
-Seprating the script for CPU and GPU let's the user to run two parrerel operation leading to 2X efficency 
+Separating the script for CPU and GPU lets the user to run two parallel operation,s leading to 2X efficiency 
 
 #Overview
 
